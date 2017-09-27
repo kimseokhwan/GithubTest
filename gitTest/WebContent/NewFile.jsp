@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-hello kosta!aa
+hello kosta!
 </body>
 </html>
